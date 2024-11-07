@@ -20,8 +20,8 @@
 
 #### ⏲️ Work Stats
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YellowFiber&show_icons=true&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YellowFiber&layout=compact&theme=radical">
+  <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api?username=YellowFiber&show_icons=true&include_all_commits=true&theme=radical">
+  <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api/top-langs/?username=YellowFiber&layout=compact&theme=radical">
 </p>
 
 
