@@ -8,7 +8,7 @@
 - 💻 2년 디자인 + 2년 퍼블리셔로 일을 했습니다.
 - 🌱 현재 프론트엔드 개발 공부를 하고있습니다.
 
-#### 💪 skills
+### 💪 skills
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
 </p>
 
-#### ⏲️ Work Stats
+### ⏲️ Work Stats
 <p>
   <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api?username=YellowFiber&show_icons=true&include_all_commits=true&theme=dracula">
   <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api/top-langs/?username=YellowFiber&layout=compact&theme=dracula">
